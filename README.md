@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wazirahmadkhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Computer Programming
+- 🌱 I’m currently learning ...C Language & Python
+- 💞️ I’m looking to collaborate on ... Programming concept's
 - 📫 How to reach me ...@wazirahmadkhan
 
 <!---
